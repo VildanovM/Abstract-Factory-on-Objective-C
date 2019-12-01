@@ -14,4 +14,8 @@
     return @"Iphone XL is created";
 }
 
+-(NSString *) useFaceID {
+    return @"Face ID in Iphone XL is working";
+}
+
 @end

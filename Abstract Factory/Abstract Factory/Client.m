@@ -15,6 +15,7 @@
     id<AbstractSamsung> samsung = [factory createSamsung];
     
     NSLog(@"%@", [iphone namingOfIphone]);
+    NSLog(@"%@", [iphone useFaceID]);
     NSLog(@"%@", [samsung namingOfSamsung]);
 }
 
